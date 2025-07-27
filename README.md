@@ -2,7 +2,7 @@
 Hello 👋, 
 # This is  Umang Davda</br>
 A passionate  App & Game Developer</br>
-📚Currently pursuing Master of Computer Application from Mumbai University</br>
+🎓 Completed my Master of Computer Application from Mumbai University</br>
 🎓 Completed my Bachelor of Science in Computer Science from Mumbai University</br>
 📍Currently based in Mumbai, India.
 <h3 align="left">Languages:</h3>
